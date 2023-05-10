@@ -26,3 +26,5 @@
 <img align="left" alt="Php" width="26px" src="https://i0.wp.com/piratespc.net/wp-content/uploads/2019/04/1200px-PhpStorm_Logo.svg_.png?resize=1024%2C1024&ssl=1" style="padding-right:10px;" />
 <img align="left" alt="Json" width="26px" src="https://s3.amazonaws.com/media-p.slid.es/uploads/907247/images/6156854/json-logo.png" style="padding-right:10px;" />
 <img align="left" alt="C#" width="26px" src="https://th.bing.com/th/id/R.876afbe5e38c58cb01ccd6e2a789cc47?rik=z9cgSvPbGiXr6g&pid=ImgRaw&r=0" style="padding-right:10px;" />
+<img align="left" alt="C" width="26px" src="https://th.bing.com/th/id/R.f7a843fc1015a8c1391637908104b4a6?rik=VI%2bqDthME0o0JQ&pid=ImgRaw&r=0" style="padding-right:10px;" />
+<img align="left" alt="C++" width="26px" src="https://brandslogos.com/wp-content/uploads/images/large/c-logo-black-and-white.png" style="padding-right:10px;" />
