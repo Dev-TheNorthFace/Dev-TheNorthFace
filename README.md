@@ -8,7 +8,6 @@
 ### Logiciel Code:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Php" width="26px" src="https://i0.wp.com/piratespc.net/wp-content/uploads/2019/04/1200px-PhpStorm_Logo.svg_.png?resize=1024%2C1024&ssl=1" style="padding-right:10px;" />
-<img align="left" alt="WebStorm" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffreebiesupply.com%2Flogos%2Fwebstorm-icon-logo%2F&psig=AOvVaw20_V2R3MPY1yQbTZBBBCUo&ust=1683828789035000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCKjxhZqt6_4CFQAAAAAdAAAAABAH" style="padding-right:10px;" />
 
 -----
 
