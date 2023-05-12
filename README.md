@@ -4,6 +4,7 @@
 - 🖤 Développeur de plusieurs projet MCPE
 - 👀 Créateur de Pocketmine-tuto
 - 📌 Créateur de Plugin-Pocketmine-tuto
+- 🧊 Owner d'un futur gros projet mcpe
 
 ### Logiciel Code:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
