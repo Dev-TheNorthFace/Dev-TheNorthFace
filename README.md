@@ -1,7 +1,7 @@
 ## Dev-TheNorthFace!
 
 - 🤍 Développeur a mes temps perdu HTML5, JavaScript, Node.js, Php, C#, C++
-- 📜 Essaye d'apprendre le pyton
+- 📜 Essaye d'apprendre le python
 - 🖤 Développeur de plusieurs projet MCPE
 - 👀 Créateur de Pocketmine-tuto
 - 🧊 Owner Valora Kit Map
