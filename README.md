@@ -1,6 +1,7 @@
 ## Dev-TheNorthFace!
 
-- 🤍 Développeur a mes temps perdu HTML5, JavaScript, Node.js, Php, Json, C#, C++
+- 🤍 Développeur a mes temps perdu HTML5, JavaScript, Node.js, Php, C#, C++
+- 📜 Essaye d'apprendre le pyton
 - 🖤 Développeur de plusieurs projet MCPE
 - 👀 Créateur de Pocketmine-tuto
 - 🧊 Owner Valora Kit Map
@@ -24,6 +25,5 @@
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Php" width="26px" src="https://i0.wp.com/piratespc.net/wp-content/uploads/2019/04/1200px-PhpStorm_Logo.svg_.png?resize=1024%2C1024&ssl=1" style="padding-right:10px;" />
-<img align="left" alt="Json" width="26px" src="https://s3.amazonaws.com/media-p.slid.es/uploads/907247/images/6156854/json-logo.png" style="padding-right:10px;" />
 <img align="left" alt="C#" width="26px" src="https://th.bing.com/th/id/R.876afbe5e38c58cb01ccd6e2a789cc47?rik=z9cgSvPbGiXr6g&pid=ImgRaw&r=0" style="padding-right:10px;" />
 <img align="left" alt="C++" width="26px" src="https://brandslogos.com/wp-content/uploads/images/large/c-logo-black-and-white.png" style="padding-right:10px;" />
