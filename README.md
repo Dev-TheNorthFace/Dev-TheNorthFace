@@ -2,9 +2,9 @@
 
 - 🤍 Développeur a mes temps perdu HTML5, JavaScript, Node.js, Php, C#, C++, lua
 - 📜 Essaye d'apprendre le python
-- 🖤 Développeur de plusieurs projet MCPE
+- 🖤 @Développeur Néphelia a mes temps perdu
 - 👀 Créateur de Pocketmine-tuto
-- 🧊 Owner Valora Kit Map
+- 🧊 @Owner PhMc
 
 ### Logiciel Code:
 <img align="left"
