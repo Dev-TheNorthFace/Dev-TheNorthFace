@@ -1,6 +1,6 @@
 ## Dev-TheNorthFace!
 
-- 🤍 Développeur a mes temps perdu HTML5, JavaScript, Node.js, Php, C#, C++
+- 🤍 Développeur a mes temps perdu HTML5, JavaScript, Node.js, Php, C#, C++, lua
 - 📜 Essaye d'apprendre le python
 - 🖤 Développeur de plusieurs projet MCPE
 - 👀 Créateur de Pocketmine-tuto
