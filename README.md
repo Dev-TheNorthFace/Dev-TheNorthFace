@@ -7,7 +7,8 @@
 - 🧊 Owner Valora Kit Map
 
 ### Logiciel Code:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left"
+ alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Php" width="26px" src="https://i0.wp.com/piratespc.net/wp-content/uploads/2019/04/1200px-PhpStorm_Logo.svg_.png?resize=1024%2C1024&ssl=1" style="padding-right:10px;" />
 <img align="left" alt="Web Storm" width="26px" src="https://th.bing.com/th/id/R.6cf01ce480c879c2cc5b9665490006cd?rik=Nrl5kigTc7iFOA&pid=ImgRaw&r=0" style="padding-right:10px;" />
 
@@ -27,3 +28,4 @@
 <img align="left" alt="Php" width="26px" src="https://i0.wp.com/piratespc.net/wp-content/uploads/2019/04/1200px-PhpStorm_Logo.svg_.png?resize=1024%2C1024&ssl=1" style="padding-right:10px;" />
 <img align="left" alt="C#" width="26px" src="https://th.bing.com/th/id/R.876afbe5e38c58cb01ccd6e2a789cc47?rik=z9cgSvPbGiXr6g&pid=ImgRaw&r=0" style="padding-right:10px;" />
 <img align="left" alt="C++" width="26px" src="https://brandslogos.com/wp-content/uploads/images/large/c-logo-black-and-white.png" style="padding-right:10px;" />
+<img align="left" alt="Lua" width="26px" src="https://th.bing.com/th/id/OIP.wFFjjArR8BOOcCYB1ihSYAAAAA?pid=ImgDet&rs=1" style="padding-right:10px;" />
