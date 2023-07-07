@@ -2,7 +2,7 @@
 
 - 🤍 Développeur a mes temps perdu HTML5, JavaScript, Node.js, Php, C#, C++, lua
 - 📜 Essaye d'apprendre le python
-- 🖤 @Développeur Néphelia a mes temps perdu
+- 🖤 @Développeur de projet 
 - 👀 Créateur de Pocketmine-tuto
 - 🧊 @Owner PhMc
 
