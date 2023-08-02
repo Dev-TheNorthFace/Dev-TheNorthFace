@@ -4,7 +4,7 @@
 - 📜 Essaye d'apprendre le python
 - 🖤 @Développeur de projet 
 - 👀 Créateur de Pocketmine-tuto
-- 🧊 @Owner PhMc
+- 🧊 @Owner SunShine
 
 ### Logiciel Code:
 <img align="left"
