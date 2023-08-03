@@ -31,4 +31,4 @@
 <img align="left" alt="C#" width="26px" src="https://www.svgrepo.com/show/452184/csharp.svg" style="padding-right:10px;" />
 <img align="left" alt="C++" width="26px" src="https://brandslogos.com/wp-content/uploads/images/large/c-logo-black-and-white.png" style="padding-right:10px;" />
 <img align="left" alt="Lua" width="26px" src="https://bitbucket.org/repo/a7jeA7/images/1805117328-lua_logo.png" style="padding-right:10px;" />
-<img align="left" alt="Python" width="26px" src="https://pluspng.com/img-png/python-logo-png-python-logo-png-img-565-565-free-transparent-python-png-900x580.jpg" style="padding-right:10px;" />
+<img align="left" alt="Python" width="26px" src="https://p1.hiclipart.com/preview/1002/616/999/python-logo-programming-language-computer-programming-professional-python-highlevel-programming-language-scripting-language-data-type-php-png-clipart.jpg" style="padding-right:10px;" />
