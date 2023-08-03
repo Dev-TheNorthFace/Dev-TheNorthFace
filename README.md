@@ -19,6 +19,7 @@
 <img align="left" alt="Ubuntu" width="26px" src="https://dominicm.com/wp-content/uploads/2014/11/ubuntu-logo.png" style="padding-right:10px;" />
 <img align="left" alt="Linux" width="26px" src="https://th.bing.com/th/id/R.95e08e2d98526849bbf0606536a04acf?rik=aw7pCN3NbibFCg&riu=http%3a%2f%2flofrev.net%2fwp-content%2fphotos%2f2014%2f10%2fLinux-logo.png&ehk=6ThG0axMBgrGFKzDw6C77t96N9KUiWuKiQbvxau%2bn1s%3d&risl=&pid=ImgRaw&r=0" style="padding-right:10px;" />
 <img align="left" alt="Oracle VM VirtualBox" width="26px" src="https://dradisframework.com/images/integrations/deployment/virtualbox.png" style="padding-right:10px;" />
+<img align="left" alt="Mysql" width="26px" src="https://th.bing.com/th/id/R.af0dad0aff317476578e26326f7e565a?rik=Oqyjv8pj1FMbxQ&riu=http%3a%2f%2fpngimg.com%2fuploads%2fmysql%2fmysql_PNG9.png&ehk=VkhkyNm%2bjWFdA2m%2fcrj5SWbtbfgmqKXspTplYChgSmw%3d&risl=&pid=ImgRaw&r=0" style="padding-right:10px;" />
 <img align="left" alt="Node.js" width="26px" src="https://th.bing.com/th/id/R.bdd9dbc21b1a93bdc21e9cb5d772e3bf?rik=5gtPY6ddl2pLdA&riu=http%3a%2f%2fwww.mindrops.com%2fimages%2fnodejs-image.png&ehk=qPCsxE0%2bX2K%2bJfokkA9DLNfdBnmhTrYxgUAsaWPRg%2fc%3d&risl=&pid=ImgRaw&r=0" style="padding-right:10px;" />
 
 -
@@ -31,4 +32,3 @@
 <img align="left" alt="C#" width="26px" src="https://www.svgrepo.com/show/452184/csharp.svg" style="padding-right:10px;" />
 <img align="left" alt="C++" width="26px" src="https://brandslogos.com/wp-content/uploads/images/large/c-logo-black-and-white.png" style="padding-right:10px;" />
 <img align="left" alt="Lua" width="26px" src="https://bitbucket.org/repo/a7jeA7/images/1805117328-lua_logo.png" style="padding-right:10px;" />
-<img align="left" alt="Python" width="26px" src="https://p1.hiclipart.com/preview/1002/616/999/python-logo-programming-language-computer-programming-professional-python-highlevel-programming-language-scripting-language-data-type-php-png-clipart.jpg" style="padding-right:10px;" />
