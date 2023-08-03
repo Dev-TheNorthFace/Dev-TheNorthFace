@@ -23,11 +23,11 @@
 
 -
 
-### Languages Programation:
+### Languages:
 
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Java Script" width="26px" src="https://logos-download.com/wp-content/uploads/2019/01/JavaScript_Logo.png" style="padding-right:10px;" />
 <img align="left" alt="Php" width="26px" src="https://i0.wp.com/piratespc.net/wp-content/uploads/2019/04/1200px-PhpStorm_Logo.svg_.png?resize=1024%2C1024&ssl=1" style="padding-right:10px;" />
 <img align="left" alt="C#" width="26px" src="https://th.bing.com/th/id/R.876afbe5e38c58cb01ccd6e2a789cc47?rik=z9cgSvPbGiXr6g&pid=ImgRaw&r=0" style="padding-right:10px;" />
 <img align="left" alt="C++" width="26px" src="https://brandslogos.com/wp-content/uploads/images/large/c-logo-black-and-white.png" style="padding-right:10px;" />
