@@ -14,7 +14,7 @@
 
 -
 
-### Frameworks & Libary:
+### Frameworks & Logiciel:
 <img align="left" alt="BoostStrap" width="26px" src="https://brandlogos.net/wp-content/uploads/2021/09/bootstrap-logo.png" style="padding-right:10px;" />
 <img align="left" alt="Ubuntu" width="26px" src="https://dominicm.com/wp-content/uploads/2014/11/ubuntu-logo.png" style="padding-right:10px;" />
 <img align="left" alt="Linux" width="26px" src="https://th.bing.com/th/id/R.95e08e2d98526849bbf0606536a04acf?rik=aw7pCN3NbibFCg&riu=http%3a%2f%2flofrev.net%2fwp-content%2fphotos%2f2014%2f10%2fLinux-logo.png&ehk=6ThG0axMBgrGFKzDw6C77t96N9KUiWuKiQbvxau%2bn1s%3d&risl=&pid=ImgRaw&r=0" style="padding-right:10px;" />
