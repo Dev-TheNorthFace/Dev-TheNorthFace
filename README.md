@@ -30,4 +30,4 @@
 <img align="left" alt="Php" width="26px" src="https://i0.wp.com/piratespc.net/wp-content/uploads/2019/04/1200px-PhpStorm_Logo.svg_.png?resize=1024%2C1024&ssl=1" style="padding-right:10px;" />
 <img align="left" alt="C#" width="26px" src="https://www.svgrepo.com/show/452184/csharp.svg" style="padding-right:10px;" />
 <img align="left" alt="C++" width="26px" src="https://brandslogos.com/wp-content/uploads/images/large/c-logo-black-and-white.png" style="padding-right:10px;" />
-<img align="left" alt="Lua" width="26px" src="" style="padding-right:10px;" />
+<img align="left" alt="Lua" width="26px" src="https://bitbucket.org/repo/a7jeA7/images/1805117328-lua_logo.png" style="padding-right:10px;" />
