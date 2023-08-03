@@ -1,6 +1,6 @@
 ## Information sur N💥RTH
 
-- 🤍 Développeur a mes temps perdu HTML5, JavaScript, Node.js, Php, C#, C++, lua, Python
+- 🤍 Développeur a mes temps perdu HTML5, JavaScript, Php, C#, C++, lua, Python
 - 📜 Essaye d'apprendre le Vue
 - 🖤 @Développeur de projet 
 - 👀 Créateur de Pocketmine-tuto
