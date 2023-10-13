@@ -10,7 +10,6 @@
 <img align="left"
  alt="Visual Studio Code" width="26px" src="https://logospng.org/download/visual-studio-code/visual-studio-code-4096.png" style="padding-right:10px;" />
 <img align="left" alt="Php" width="26px" src="https://i0.wp.com/piratespc.net/wp-content/uploads/2019/04/1200px-PhpStorm_Logo.svg_.png?resize=1024%2C1024&ssl=1" style="padding-right:10px;" />
-<img align="left" alt="Web Storm" width="26px" src="https://th.bing.com/th/id/R.6cf01ce480c879c2cc5b9665490006cd?rik=Nrl5kigTc7iFOA&pid=ImgRaw&r=0" style="padding-right:10px;" />
 
 -
 
