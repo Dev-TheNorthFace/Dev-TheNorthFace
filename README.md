@@ -4,7 +4,7 @@
 - 📜 Essaye d'apprendre le Vue
 - 🖤 @Développeur de projet 
 - 👀 Créateur de Pocketmine-tuto
-- 🧊 @Owner SunShine
+- 🧊 @Owner New Projet
 
 ### Logiciel Code:
 <img align="left"
