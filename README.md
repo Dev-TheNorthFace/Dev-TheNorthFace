@@ -27,5 +27,4 @@
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Php" width="26px" src="https://pngimg.com/uploads/php/php_PNG35.png" style="padding-right:10px;" />
 <img align="left" alt="C++" width="26px" src="https://brandslogos.com/wp-content/uploads/images/large/c-logo-black-and-white.png" style="padding-right:10px;" />
-<img align="left" alt="C#" width="26px" src="https://th.bing.com/th/id/OIP.k_WwUhroQ9q60LNcrJ-a5QHaGy?w=239&h=220&c=7&r=0&o=5&dpr=1.3&pid=1.7" style="padding-right:10px;" />
 <img align="left" alt="Python" width="26px" src="https://th.bing.com/th/id/R.7494e83354e2662240d06630cc31f08d?rik=9tIRLZpYS9oTfQ&pid=ImgRaw&r=0" style="padding-right:10px;" />
