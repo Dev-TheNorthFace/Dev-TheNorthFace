@@ -1,6 +1,6 @@
 ## Information sur N💥RTH
 
-- 🤍 HTML5, JavaScript, Php, C++
+- 🤍 HTML5, JavaScript, Php, C#
 - 🖤 @Passionate developer
 - 👀 Creator Pocketmine-tuto (I admit I should do it better)
 - 🧊 @Owner New Projet
@@ -26,5 +26,3 @@
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Php" width="26px" src="https://pngimg.com/uploads/php/php_PNG35.png" style="padding-right:10px;" />
-<img align="left" alt="C++" width="26px" src="https://brandslogos.com/wp-content/uploads/images/large/c-logo-black-and-white.png" style="padding-right:10px;" />
-<img align="left" alt="Python" width="26px" src="https://th.bing.com/th/id/R.7494e83354e2662240d06630cc31f08d?rik=9tIRLZpYS9oTfQ&pid=ImgRaw&r=0" style="padding-right:10px;" />
