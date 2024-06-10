@@ -89,7 +89,7 @@
 ###
 
 <div align="center">
-  <img src="https://github.com/Dev-TheNorthFace/ThomNardou/blob/main/github-user-contribution.svg" width="100%"/>
+  <img src="https://github.com/Dev-TheNorthFace/Dev-TheNorthFace/blob/main/github-user-contribution.svg" width="100%"/>
 </div>
 
 ###
