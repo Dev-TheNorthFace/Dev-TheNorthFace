@@ -5,32 +5,91 @@
 - 👀 Creator Pocketmine-tuto (I admit I should do it better)
 - 🧊 @Owner New Projet
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-TheNorthFace&layout=compact&theme=tokyonight" alt="Top Langs">
-</div>
+###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dev-TheNorthFace&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dev-TheNorthFace&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true" width="400px" height="200" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Dev-TheNorthFace&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5" width="400px" height="200" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-TheNorthFace&layout=compact&card_width=1000&langs_count=10&theme=radical&hide_border=true" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-TheNorthFace&layout=compact&theme=github-compact"/>
 </div>
 
-### Logiciel Code:
-<img align="left"
- alt="Visual Studio Code" width="26px" src="https://logospng.org/download/visual-studio-code/visual-studio-code-4096.png" style="padding-right:10px;" />
-<img align="left" alt="Php" width="26px" src="https://i0.wp.com/piratespc.net/wp-content/uploads/2019/04/1200px-PhpStorm_Logo.svg_.png?resize=1024%2C1024&ssl=1" style="padding-right:10px;" />
+###
 
--
+<h2 align="left">🔨 - Languages and Tools</h2>
 
-### Frameworks & Logiciel:
-<img align="left" alt="BoostStrap" width="26px" src="https://brandlogos.net/wp-content/uploads/2021/09/bootstrap-logo.png" style="padding-right:10px;" />
-<img align="left" alt="Linux" width="26px" src="https://th.bing.com/th/id/R.95e08e2d98526849bbf0606536a04acf?rik=aw7pCN3NbibFCg&riu=http%3a%2f%2flofrev.net%2fwp-content%2fphotos%2f2014%2f10%2fLinux-logo.png&ehk=6ThG0axMBgrGFKzDw6C77t96N9KUiWuKiQbvxau%2bn1s%3d&risl=&pid=ImgRaw&r=0" style="padding-right:10px;" />
-<img align="left" alt="Oracle VM VirtualBox" width="26px" src="https://dradisframework.com/images/integrations/deployment/virtualbox.png" style="padding-right:10px;" />
-<img align="left" alt="Mysql" width="26px" src="https://th.bing.com/th/id/R.af0dad0aff317476578e26326f7e565a?rik=Oqyjv8pj1FMbxQ&riu=http%3a%2f%2fpngimg.com%2fuploads%2fmysql%2fmysql_PNG9.png&ehk=VkhkyNm%2bjWFdA2m%2fcrj5SWbtbfgmqKXspTplYChgSmw%3d&risl=&pid=ImgRaw&r=0" style="padding-right:10px;" />
-<img align="left" alt="Node.js" width="26px" src="https://th.bing.com/th/id/R.bdd9dbc21b1a93bdc21e9cb5d772e3bf?rik=5gtPY6ddl2pLdA&riu=http%3a%2f%2fwww.mindrops.com%2fimages%2fnodejs-image.png&ehk=qPCsxE0%2bX2K%2bJfokkA9DLNfdBnmhTrYxgUAsaWPRg%2fc%3d&risl=&pid=ImgRaw&r=0" style="padding-right:10px;" />
+###
 
--
+<table><tr><td valign="top" width="33%">
 
-### Languages:
 
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Php" width="26px" src="https://pngimg.com/uploads/php/php_PNG35.png" style="padding-right:10px;" />
+
+### Frontend  
+<div align="center">  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### Backend  
+<div align="center">  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### Tools  
+<div align="center">  
+<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
+<a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" /></a>  
+</div>  
+
+
+
+### Want to learn  
+<div align="center">  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+<a href="https://www.ruby-lang.org/en/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ruby-original-wordmark.svg" alt="Ruby" height="50" /></a>  
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
+<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
+<a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>  
+<a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>  
+</div>
+
+</td></tr></table>  
+
+###
+
+<h2 align="left">👀 - Contact ME</h2>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <a href="reactedtitan880@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github.com/Dev-TheNorthFace/ThomNardou/blob/main/github-user-contribution.svg" width="100%"/>
+</div>
+
+###
