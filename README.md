@@ -60,6 +60,12 @@
 <img align="left" alt="Php" width="26px" src="https://pngimg.com/uploads/php/php_PNG35.png" style="padding-right:10px;" /> 
 </div>
 
+</td></tr></table>  
+
+###
+
+###
+
 <div align="center">
   <img src="https://github.com/Dev-TheNorthFace/Dev-TheNorthFace/blob/main/github-user-contribution.svg" width="100%"/>
 </div>
