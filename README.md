@@ -26,3 +26,11 @@
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Php" width="26px" src="https://pngimg.com/uploads/php/php_PNG35.png" style="padding-right:10px;" />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-TheNorthFace&layout=compact&theme=tokyonight" alt="Top Langs">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dev-TheNorthFace&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+</div>
