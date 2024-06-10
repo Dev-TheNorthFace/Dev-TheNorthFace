@@ -1,4 +1,4 @@
-## Information sur N💥RTH
+## N💥RTH
 
 - 🤍 HTML5, JavaScript, Php, C#
 - 🖤 @Passionate developer
@@ -16,7 +16,7 @@
 
 ###
 
-<h2 align="left">🔨 - Languages and Tools</h2>
+<h2 align="left">Languages and Tools</h2>
 
 ###
 
