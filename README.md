@@ -17,6 +17,8 @@
 <p>
     <a href="https://github.com/Dev-TheNorthFace/Pocketmine-Tuto" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-TheNorthFace&repo=Pocketmine-Tuto&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" >
 </a>
+<a href="https://github.com/Dev-TheNorthFace/GoogleFormsScripts" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-TheNorthFace&repo=GoogleFormsScripts&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" >
+</a>
 </p>
 
 ###
