@@ -75,13 +75,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <center><p align="center"><a href="#">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dev-TheNorthFace&margin-w=28&margin-h=15&theme=radical&hide_border=true">
-
-<div align="center">
-  
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=0ts2k701if0l3nur6prtzq85s&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/💸•THE NORTH FACE•🥷/spotify-github-profile)
-
-</div>
+<img src="https://github-profile-trophy.vercel.app/?username=Dev-TheNorthFace&margin-w=28&margin-h=15&theme=radical&hide_border=true">
 
 ###
 
