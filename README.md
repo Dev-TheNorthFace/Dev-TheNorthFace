@@ -7,15 +7,6 @@
 
 ###
 
-<p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=Dev-TheNorthFace&data=repositories,stars,followers&theme=darkmode" alt="GitHub WidgetBox">
-</p>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Dev-TheNorthFace&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5" width="400px" height="200" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-TheNorthFace&layout=compact&card_width=1000&langs_count=10&theme=radical&hide_border=true" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-TheNorthFace&layout=compact&theme=github-compact"/>
-</div>
-
 # My biggest project
 <p>
     <a href="https://github.com/Dev-TheNorthFace/Pocketmine-Tuto" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-TheNorthFace&repo=Pocketmine-Tuto&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" >
