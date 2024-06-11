@@ -21,6 +21,8 @@
 </a>
 <a href="https://github.com/Dev-TheNorthFace/Nitro-Link-Checker" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-TheNorthFace&repo=Nitro-Link-Checker&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" >
 </a>
+<a href="https://github.com/Dev-TheNorthFace/Anti-Cheat-Payday-2" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-TheNorthFace&repo=Anti-Cheat-Payday-2&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" >
+</a>
 </p>
 
 ###
