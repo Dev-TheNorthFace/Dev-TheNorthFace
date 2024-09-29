@@ -2,8 +2,6 @@
 
 - 🤍 HTML5, JavaScript, Php, Java
 - 🖤 @Passionate developer
-- 👀 Creator Pocketmine-tuto (I admit I should do it better)
-- 🧊 @Owner New Projet
 
 ###
 <div align="center">
