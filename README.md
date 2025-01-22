@@ -68,6 +68,7 @@
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Php" width="26px" src="https://pngimg.com/uploads/php/php_PNG35.png" style="padding-right:10px;" />
 <img align="left" alt="Bash" width="26x" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" style="padding-right:10px;" />
+<img align="left" alt="Cpp" width="26x" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" style="padding-right:10px;" />
 </div>
 
 </td></tr></table>  
