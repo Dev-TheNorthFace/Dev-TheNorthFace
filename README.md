@@ -58,7 +58,7 @@
 
 ### Tools  
 <div align="center">  
-<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>
+<img align="left" alt="Windows PowerShell" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Powershell-Dark.svg" style="padding-right:10px;" />
 <img align="left" alt="Kali Linux" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kali-Dark.svg" style="padding-right:10px;" />
 </div>  
 
