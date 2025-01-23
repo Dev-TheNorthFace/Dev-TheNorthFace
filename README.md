@@ -58,7 +58,8 @@
 
 ### Tools  
 <div align="center">  
-<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>   
+<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>
+<img align="left" alt="Kali Linux" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kali-Dark.svg" style="padding-right:10px;" />
 </div>  
 
 
@@ -66,11 +67,12 @@
 ### Languages  
 <div align="center">  
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="JavaScript" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" style="padding-right:10px;" />
 <img align="left" alt="Php" width="26px" src="https://pngimg.com/uploads/php/php_PNG35.png" style="padding-right:10px;" />
 <img align="left" alt="Bash" width="26x" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" style="padding-right:10px;" />
 <img align="left" alt="Cpp" width="26x" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" style="padding-right:10px;" />
 <img align="left" alt="Css" width="26x" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" style="padding-right:10px;" />
+<img align="left" alt="Java" width="26x" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" style="padding-right:10px;" />
 </div>
 
 </td></tr></table>  
