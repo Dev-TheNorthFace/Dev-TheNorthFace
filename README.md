@@ -1,7 +1,10 @@
 N💥RTH
-🤍 HTML5, JavaScript, Php, Java
-🖤 @Passionate developer
-⭐ Former developer on Pocketmine software 3.0.0-4.0.0 (2021-2023)
+
+- 🤍 HTML5, JavaScript, Php, Java
+- 🖤 @Passionate developer
+-  ⭐ Former developer on Pocketmine software 3.0.0-4.0.0 (2021-2023)
+
+###
 <div align="center"> <img src="https://streak-stats.demolab.com?user=Dev-TheNorthFace&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5" width="400px" alt="streak graph" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-TheNorthFace&layout=compact&card_width=450&langs_count=10&theme=radical&hide_border=true" alt="languages graph" /> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-TheNorthFace&layout=compact&theme=github-compact" width="100%" alt="activity graph" /> </div>
 My Biggest Project
 <div align="center"> <a href="https://github.com/Dev-TheNorthFace/Pocketmine-Tuto"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-TheNorthFace&repo=Pocketmine-Tuto&theme=radical&hide_border=true" alt="Pocketmine-Tuto"> </a> <a href="https://github.com/Dev-TheNorthFace/PiggyCustomEnchant-SpigotEssential"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-TheNorthFace&repo=PiggyCustomEnchant-SpigotEssential&theme=radical&hide_border=true" alt="PiggyCustomEnchant-SpigotEssential"> </a> <a href="https://github.com/Dev-TheNorthFace/FormAPI-Spigot-Essential"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-TheNorthFace&repo=FormAPI-Spigot-Essential&theme=radical&hide_border=true" alt="FormAPI-Spigot-Essential"> </a> <a href="https://github.com/Dev-TheNorthFace/Anti-Cheat-Payday-2"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-TheNorthFace&repo=Anti-Cheat-Payday-2&theme=radical&hide_border=true" alt="Anti-Cheat-Payday-2"> </a> </div>
