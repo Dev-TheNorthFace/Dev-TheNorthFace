@@ -49,6 +49,7 @@
 <img align="left" alt="Oracle VM VirtualBox" width="26px" src="https://dradisframework.com/images/integrations/deployment/virtualbox.png" style="padding-right:10px;" />
 <img align="left" alt="Mysql" width="26px" src="https://th.bing.com/th/id/R.af0dad0aff317476578e26326f7e565a?rik=Oqyjv8pj1FMbxQ&riu=http%3a%2f%2fpngimg.com%2fuploads%2fmysql%2fmysql_PNG9.png&ehk=VkhkyNm%2bjWFdA2m%2fcrj5SWbtbfgmqKXspTplYChgSmw%3d&risl=&pid=ImgRaw&r=0" style="padding-right:10px;" />
 <img align="left" alt="Node.js" width="26px" src="https://th.bing.com/th/id/R.bdd9dbc21b1a93bdc21e9cb5d772e3bf?rik=5gtPY6ddl2pLdA&riu=http%3a%2f%2fwww.mindrops.com%2fimages%2fnodejs-image.png&ehk=qPCsxE0%2bX2K%2bJfokkA9DLNfdBnmhTrYxgUAsaWPRg%2fc%3d&risl=&pid=ImgRaw&r=0" style="padding-right:10px;" />
+<img align="left" alt="DiscordJs" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DiscordJS-Dark.svg" style="padding-right:10px;" />
 </div>
 
 </td><td valign="top" width="33%">
