@@ -83,8 +83,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <center><p align="center"><a href="#">
-<img src="https://github-profile-trophy.vercel.app/?username=Dev-TheNorthFace&margin-w=28&margin-h=15&theme=radical&hide_border=true">
-https://github-profile-trophy.vercel.app/?username=Dev-TheNorthFace&rank=S,AAA
+<img src="https://github-profile-trophy.vercel.app/?username=Dev-TheNorthFace&theme=onedark">
 
 ###
 
