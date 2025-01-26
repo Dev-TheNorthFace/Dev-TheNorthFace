@@ -89,7 +89,7 @@
 <center><p align="center"><a href="#">
   <img src="https://github-profile-trophy.vercel.app/?username=Dev-TheNorthFace&margin-w=28&margin-h=15&theme=radical&hide_border=true">
 </p>
-<img align="center"  src="https://github-readme-stats.vercel.app/api/wakatime?username=Dev-TheNorthFac&&theme=radical&hide_border=true&date_format=%5BY%20%5DM%20j">
+<img align="center"  src="https://github-readme-stats.vercel.app/api/wakatime?username=Dev-TheNorthFace&&theme=radical&hide_border=true&date_format=%5BY%20%5DM%20j">
 </center>
 
 ###
