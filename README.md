@@ -1,7 +1,7 @@
 <h1 align="center">N 💥 R T H</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&size=28&center=true&vCenter=true&width=600&lines=Passionate+Developer;PHP+%7C+JS+%7C+C%2B%2B;Modding+%26+Jailbreak;Computer Scientist" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=DC143C&size=28&center=true&vCenter=true&width=600&lines=Passionate+Developer;PHP+%7C+JS+%7C+C%2B%2B;Modding+%26+Jailbreak;Computer+Scientist" />
 </p>
 
 ---
