@@ -1,4 +1,4 @@
-<h1 align="center">💥 N R T H</h1>
+<h1 align="center">N 💥 R T H</h1>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=header"/>
@@ -76,6 +76,28 @@
   <img src="https://skillicons.dev/icons?i=nodejs,mysql,linux,ubuntu,bootstrap,discordjs" /><br/>
   <img src="https://skillicons.dev/icons?i=vscode,powershell,kali" />
 </p>
+
+---
+
+## 🔥 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-TheNorthFace&theme=github-compact"/>
+</div>
+
+---
+
+## 💬 Quote
+
+<p align="center">
+  <i>"**Writing code is easy but can you understand it?**"</i>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://github.com/Dev-TheNorthFace/Dev-TheNorthFace/blob/main/github-user-contribution.svg" width="100%"/>
+</div>
 
 ---
 
