@@ -31,7 +31,7 @@
 ## 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dev-TheNorthFace&theme=radical&no-frame=true&no-bg=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Dev-TheNorthFace&theme=onedark&no-frame=true&margin-w=10&margin-h=10"/>
 </div>
 
 ---
