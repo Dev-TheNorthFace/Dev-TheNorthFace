@@ -1,101 +1,89 @@
-## N💥RTH
+## 💥 N R T H
 
-- 🤍 HTML5, JavaScript, Php, C++
-- 🖤 @Passionate developer
-- ⭐ Former developer on Pocketmine software 3.0.0-4.0.0 (2021-2023)
-- 😂 Professional guide creator
+- 🤍 HTML5, JavaScript, PHP, C++
+- 🖤 Passionate Developer
+- ⭐ Former PocketMine developer (3.0.0 → 4.0.0) | 2021–2023
+- 😂 Professional Guide Creator
 
-###
+---
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Dev-TheNorthFace&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5" width="400px" height="200" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-TheNorthFace&layout=compact&card_width=1000&langs_count=10&theme=radical&hide_border=true" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-TheNorthFace&layout=compact&theme=github-compact"/>
+  <img src="https://streak-stats.demolab.com?user=Dev-TheNorthFace&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-TheNorthFace&layout=compact&langs_count=8&theme=radical&hide_border=true" height="180"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-TheNorthFace&theme=github-compact"/>
 </div>
 
-# My biggest project
+---
+
+## 🚀 My Biggest Projects
+
+<div align="center">
+
+<a href="https://github.com/Dev-TheNorthFace/Pocketmine-Tuto">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-TheNorthFace&repo=Pocketmine-Tuto&theme=radical&hide_border=true"/>
+</a>
+
+<a href="https://github.com/Dev-TheNorthFace/Scripts-Bo1-T5-Zombies">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-TheNorthFace&repo=Scripts-Bo1-T5-Zombies&theme=radical&hide_border=true"/>
+</a>
+
+<a href="https://github.com/Dev-TheNorthFace/PS3-Jailbreak-CFW-Tutorial">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-TheNorthFace&repo=PS3-Jailbreak-CFW-Tutorial&theme=radical&hide_border=true"/>
+</a>
+
+<a href="https://github.com/Dev-TheNorthFace/Binary-Decoder">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-TheNorthFace&repo=Binary-Decoder&theme=radical&hide_border=true"/>
+</a>
+
+</div>
+
+---
+
+## 🧠 Languages & Tools
+
+### 💻 Code Editors
 <p>
-    <a href="https://github.com/Dev-TheNorthFace/Pocketmine-Tuto" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-TheNorthFace&repo=Pocketmine-Tuto&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" >
-</a>
-<a href="https://github.com/Dev-TheNorthFace/Scripts-Bo1-T5-Zombies" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-TheNorthFace&repo=Scripts-Bo1-T5-Zombies&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" >
-</a>
-<a href="https://github.com/Dev-TheNorthFace/PS3-Jailbreak-CFW-Tutorial" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-TheNorthFace&repo=PS3-Jailbreak-CFW-Tutorial&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" >
-</a>
-<a href="https://github.com/Dev-TheNorthFace/Binary-Decoder" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-TheNorthFace&repo=Binary-Decoder&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" >
-</a>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="30"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PhpStorm-Dark.svg" width="30"/>
 </p>
 
-###
+### ⚙️ Frameworks & Software
+<p>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="30"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" width="30"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="30"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="30"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DiscordJS-Dark.svg" width="30"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Npm-Dark.svg" width="30"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ubuntu-Dark.svg" width="30"/>
+</p>
 
-<h2 align="left">Languages and Tools</h2>
+### 🛠️ Tools
+<p>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Powershell-Dark.svg" width="30"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kali-Dark.svg" width="30"/>
+</p>
 
-###
+### 🧩 Languages
+<p>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="30"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="30"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="30"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width="30"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="30"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="30"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="30"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Lua-Dark.svg" width="30"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" width="30"/>
+</p>
 
-<table><tr><td valign="top" width="33%">
+---
 
-
-
-### Logiciel Code  
-<div align="center">  
-<img align="left"
- alt="Visual Studio Code" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" style="padding-right:10px;" />
-<img align="left" alt="Php" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PhpStorm-Dark.svg" style="padding-right:10px;" />
-</td><td valign="top" width="33%">
-
-
-
-### Frameworks & Logiciel  
-<div align="center">  
-<img align="left" alt="BoostStrap" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" style="padding-right:10px;" />
-<img align="left" alt="Linux" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" style="padding-right:10px;" />
-<img align="left" alt="Oracle VM VirtualBox" width="26px" src="https://dradisframework.com/images/integrations/deployment/virtualbox.png" style="padding-right:10px;" />
-<img align="left" alt="Mysql" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" style="padding-right:10px;" />
-<img align="left" alt="Node.js" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" style="padding-right:10px;" />
-<img align="left" alt="DiscordJs" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DiscordJS-Dark.svg" style="padding-right:10px;" />
-<img align="left" alt="Npm" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Npm-Dark.svg" style="padding-right:10px;" />
-<img align="left" alt="Ubuntu" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ubuntu-Dark.svg" style="padding-right:10px;" />
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dev-TheNorthFace&no-bg=true"/>
 </div>
 
-</td><td valign="top" width="33%">
-
-
-
-### Tools  
-<div align="center">  
-<img align="left" alt="Windows PowerShell" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Powershell-Dark.svg" style="padding-right:10px;" />
-<img align="left" alt="Kali Linux" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kali-Dark.svg" style="padding-right:10px;" />
-</div>  
-
-
-
-### Languages  
-<div align="center">  
-<img align="left" alt="HTML5" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" style="padding-right:10px;" />
-<img align="left" alt="Php" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" style="padding-right:10px;" />
-<img align="left" alt="Bash" width="26x" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" style="padding-right:10px;" />
-<img align="left" alt="Cpp" width="26x" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" style="padding-right:10px;" />
-<img align="left" alt="Css" width="26x" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" style="padding-right:10px;" />
-<img align="left" alt="Java" width="26x" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" style="padding-right:10px;" />
-<img align="left" alt="Lua" width="26x" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Lua-Dark.svg" style="padding-right:10px;" />
-<img align="left" alt="Python" width="26x" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" style="padding-right:10px;" />
-</div>
-
-</td></tr></table>  
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<center><p align="center"><a href="#">
-<img width=800 src="https://github-profile-trophy.vercel.app/?username=Dev-TheNorthFace&no-bg=true"/>
-
-###
-
-
-###
-
-
-###
-
+---
 <div align="center">
   <img src="https://github.com/Dev-TheNorthFace/Dev-TheNorthFace/blob/main/github-user-contribution.svg" width="100%"/>
 </div>
-
-###
