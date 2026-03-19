@@ -1,8 +1,9 @@
 ## N💥RTH
 
-- 🤍 HTML5, JavaScript, Php, Java
+- 🤍 HTML5, JavaScript, Php, C++
 - 🖤 @Passionate developer
 - ⭐ Former developer on Pocketmine software 3.0.0-4.0.0 (2021-2023)
+- 😂 Professional guide creator
 
 ###
 <div align="center">
@@ -15,11 +16,11 @@
 <p>
     <a href="https://github.com/Dev-TheNorthFace/Pocketmine-Tuto" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-TheNorthFace&repo=Pocketmine-Tuto&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" >
 </a>
-<a href="https://github.com/Dev-TheNorthFace/PiggyCustomEnchant-SpigotEssential" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-TheNorthFace&repo=PiggyCustomEnchant-SpigotEssential&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" >
-</a>
 <a href="https://github.com/Dev-TheNorthFace/Scripts-Bo1-T5-Zombies" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-TheNorthFace&repo=Scripts-Bo1-T5-Zombies&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" >
 </a>
-<a href="https://github.com/Dev-TheNorthFace/Anti-Cheat-Payday-2" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-TheNorthFace&repo=Anti-Cheat-Payday-2&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" >
+<a href="https://github.com/Dev-TheNorthFace/PS3-Jailbreak-CFW-Tutorial" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-TheNorthFace&repo=PS3-Jailbreak-CFW-Tutorial&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" >
+</a>
+<a href="https://github.com/Dev-TheNorthFace/Binary-Decoder" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-TheNorthFace&repo=Binary-Decoder&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" >
 </a>
 </p>
 
