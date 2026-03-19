@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-- 🤍 Developer in **HTML / JS / PHP / C++**
+- 🤍 Developer in **HTML / JS / PHP / C++ / GSC**
 - 🖤 Passionate about **coding & reverse engineering**
 - ⭐ Former **PocketMine Developer (3.0.0 → 4.0.0)**  
 - 😂 Creator of **clean & powerful guides**
