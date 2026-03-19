@@ -1,15 +1,19 @@
-<h1 align="center">N 💥 R T H</h1>
+<h1 align="center">💥 N R T H</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=DC143C&size=28&center=true&vCenter=true&width=600&lines=Passionate+Developer;PHP+%7C+JS+%7C+C%2B%2B;Modding+%26+Jailbreak;Computer+Scientist" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=header"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=ff0000&size=26&center=true&vCenter=true&width=600&duration=3000&lines=Passionate+Developer;PHP+%7C+JS+%7C+C%2B%2B;Modding+%26+Jailbreak;Computer+Scientist" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🤍 Developer in **HTML / JS / PHP / C++ / GSC**
-- 🖤 Passionate about **coding & reverse engineering**
+- 🤍 Developer in **HTML / JS / PHP / C++ / GSC**  
+- 🖤 Passionate about **coding & reverse engineering**  
 - ⭐ Former **PocketMine Developer (3.0.0 → 4.0.0)**  
 - 😂 Creator of **clean & powerful guides**
 
@@ -17,40 +21,33 @@
 
 ## 📊 Stats
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Dev-TheNorthFace&theme=radical&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Dev-TheNorthFace&show_icons=true&theme=radical&hide_border=true" height="180"/>
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Dev-TheNorthFace&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Dev-TheNorthFace&show_icons=true&theme=radical&hide_border=true" height="170"/>
+</p>
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-TheNorthFace&layout=compact&theme=radical&hide_border=true"/>
-</div>
+</p>
 
 ---
 
 ## 🧠 Experience
 
-- 💻 5 years of programming
-
-- 🎓 Degree in Computer Science
-
-- 🎮 PS4 save modification (3 years)
-
-- 🔓 In the jailbreak scene (3 years)
-
-- 🔐 Knowledge in cryptography & computer engineering
-
-- 🛡️ Passionate about cybersecurity & reverse engineering
-
-- 🧪 Amateur pentester → CTF (HTB, TryHackMe)
-
-- 🧠 Fuzzing · OSINT · Networking · Exploit Development
+- 💻 5 years of programming  
+- 🎓 Degree in Computer Science  
+- 🎮 PS4 save modification (3 years)  
+- 🔓 In the jailbreak scene (3 years)  
+- 🔐 Knowledge in cryptography & computer engineering  
+- 🛡️ Cybersecurity & reverse engineering  
+- 🧪 Amateur pentester → CTF (HTB, TryHackMe)  
+- 🧠 Fuzzing · OSINT · Networking · Exploit Development  
 
 ---
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<p align="center">
 
 <a href="https://github.com/Dev-TheNorthFace/Pocketmine-Tuto">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-TheNorthFace&repo=Pocketmine-Tuto&theme=radical&hide_border=true"/>
@@ -68,40 +65,28 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-TheNorthFace&repo=Binary-Decoder&theme=radical&hide_border=true"/>
 </a>
 
-</div>
+</p>
 
 ---
 
 ## 🧠 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,php,cpp,java,python,lua,bash" />
-
-<img src="https://skillicons.dev/icons?i=nodejs,mysql,linux,ubuntu,bootstrap,discordjs" />
-
-<img src="https://skillicons.dev/icons?i=vscode,powershell,kali" />
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,cpp,java,python,lua,bash" /><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,mysql,linux,ubuntu,bootstrap,discordjs" /><br/>
+  <img src="https://skillicons.dev/icons?i=vscode,powershell,kali" />
 </p>
 
 ---
 
-## 🔥 Activity Graph
+## ⚡ Terminal
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-TheNorthFace&theme=github-compact"/>
-</div>
+```bash
+> whoami
+NORTH - Developer & Reverse Engineer
 
----
+> skills
+[PHP] [JS] [C++] [Cybersecurity] [Jailbreak]
 
-## 💬 Quote
-
-<p align="center">
-  <i>"**Writing code is easy but can you understand it?**"</i>
-</p>
-
----
-
-<div align="center">
-  <img src="https://github.com/Dev-TheNorthFace/Dev-TheNorthFace/blob/main/github-user-contribution.svg" width="100%"/>
-</div>
+> status
+Building. Breaking. Learning.
