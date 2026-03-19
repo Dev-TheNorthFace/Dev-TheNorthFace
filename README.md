@@ -28,11 +28,23 @@
 
 ---
 
-## 🏆 Trophies
+## 🧠 Experience
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dev-TheNorthFace&theme=onedark&no-frame=true&margin-w=10&margin-h=10"/>
-</div>
+- 💻 5 years of programming
+
+- 🎓 Degree in Computer Science
+
+- 🎮 PS4 save modification (3 years)
+
+- 🔓 In the jailbreak scene (3 years)
+
+- 🔐 Knowledge in cryptography & computer engineering
+
+- 🛡️ Passionate about cybersecurity & reverse engineering
+
+- 🧪 Amateur pentester → CTF (HTB, TryHackMe)
+
+- 🧠 Fuzzing · OSINT · Networking · Exploit Development
 
 ---
 
@@ -82,18 +94,10 @@
 
 ---
 
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dev-TheNorthFace&color=red&style=flat-square"/>
-</p>
-
----
-
 ## 💬 Quote
 
 <p align="center">
-  <i>"Code, break, learn, repeat."</i>
+  <i>"**Writing code is easy but can you understand it?**"</i>
 </p>
 
 ---
